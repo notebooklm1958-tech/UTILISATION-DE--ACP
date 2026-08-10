@@ -1,5 +1,5 @@
 # UTILISATION-DE--ACP
-vEntrée : Jeu de données (Matrice X), Nombre de composantes à conserver (K)
+Entrée : Jeu de données (Matrice X), Nombre de composantes à conserver (K)
 Sortie : Jeu de données transformé (Dimension réduite)
 
 Étape 1 : Standardiser les données
