@@ -1,4 +1,7 @@
 # UTILISATION-DE--ACP
+
+https://youtu.be/pyxb2Lt-KDI?si=Ch6fVc3o-j1zlTEa
+
 Voici le pseudo-code pour l'Analyse en Composantes Principales (PCA)
 Entrée : Jeu de données (Matrice X), Nombre de composantes à conserver (K)
 Sortie : Jeu de données transformé (Dimension réduite)
