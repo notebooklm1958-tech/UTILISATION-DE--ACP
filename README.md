@@ -22,3 +22,15 @@ Sortie : Jeu de données transformé (Dimension réduite)
 
 Étape 5 : Transformer le jeu de données
     - Projeter le jeu de données d'origine sur les K vecteurs propres sélectionnés[cite: 10].oici le pseudo-code pour l'Analyse en Composantes Principales (PCA):
+    Remarques de la vidéo concernant ce pseudo-code :
+
+Conseil pratique : L'auteur recommande de demander un pseudo-code aux IA (comme ChatGPT) plutôt que du code directement, pour pouvoir écrire le code soi-même ensuite.  
+YouTube
+
+
+Vérification : Il est important de toujours vérifier les étapes et les formules mathématiques à l'aide d'un manuel/livre de référence standard pour éviter les oublis ou erreurs.  
+YouTube
+
+
+Visualisation : Lors du codage, il conseille d'imprimer les variables à chaque étape (comme les valeurs propres ou la matrice de projection) et d'effectuer des calculs simples à la main en parallèle.  
+YouTube
